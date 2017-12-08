@@ -30,33 +30,3 @@ header:
 {% endfor %}
 
 
-### All posts in a language
-{% assign posts=site.posts | where:"lang", page.lang %}
-<ul>
-{% for post in posts %}
-    <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
-
-
-### Lang selector
-<ul>
-{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-{% for post in posts %}
-  <li>
-    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-  </li>
-{% endfor %}
-
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %}
-  <li>
-    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-  </li>
-{% endfor %}
-</ul>
-
-### Page
-{{ page }}

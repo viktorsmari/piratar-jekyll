@@ -2,7 +2,7 @@
 
 This is a proof of concept to see if we can use a static page instead of the Wordpress page at piratar.is
 
-PROS:
+Pros:
 * No need to update Wordpress, plugins, server etc
 * It can be hosted for free on Github. (Serverless)
 * User authentication: 
@@ -12,7 +12,14 @@ PROS:
 Cons:
 * We need to learn something new
 * We have to sign up for a Github account (free)
-* We have to learn how to use **Markdown** (this page is in markdown)
+
+
+### TODO:
+- [x] Webtree (Sitemap) directory
+- [x] Themes?
+- [x] Translations? Yes: https://www.sylvaindurand.org/making-jekyll-multilingual/
+- [ ] Permalink, remove the `_page` for pages.
+
 
 ### Quick start for development
 1. Clone this repo
@@ -24,12 +31,6 @@ Cons:
 `./server.sh` or `bundle exec jekyll serve`
 
 1. Visit [http://localhost:4000](http://localhost:4000)
-
-### TODO:
-- [x] Webtree (Sitemap) directory
-- [x] Themes?
-- [x] Translations? Yes: https://www.sylvaindurand.org/making-jekyll-multilingual/
-- [ ] Permalink, remove the `_page` for pages.
 
 ### Working with Markdown
 
