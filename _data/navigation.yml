@@ -1,0 +1,17 @@
+main:
+  - title: "Stefna"
+    url: /stefna/
+  - title: "Píratar á þingi"
+    url: /piratar-a-thingi/
+  - title: "Aðildarfélög"
+    url: /adildarfelogin/
+  - title: "Taka þátt"
+    url: /taka-thatt/
+  - title: "Um Pírata"
+    url: /about/
+  - title: "Hafa samband"
+    url: /contact/
+  - title: "Language"
+    url: /en/
+  - title: "Kosningakerfi"
+    url: https://x.piratar.is
