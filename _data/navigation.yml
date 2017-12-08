@@ -8,9 +8,9 @@ main:
   - title: "Taka þátt"
     url: /taka-thatt/
   - title: "Um Pírata"
-    url: /about/
+    url: /about
   - title: "Hafa samband"
-    url: /contact/
+    url: /contact
   - title: "Language"
     url: /en/
   - title: "Kosningakerfi"

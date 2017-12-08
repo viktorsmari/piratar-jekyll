@@ -20,8 +20,8 @@ Cons:
 1. Install jekyll and the theme  
 `bundle`
 
-1. Start the dev server  
-`bundle exec jekyll serve`
+1. Start the dev server. (If the main domain uses a subpath on Github, add `--baseurl ''`)  
+`./server.sh` or `bundle exec jekyll serve`
 
 1. Visit [http://localhost:4000](http://localhost:4000)
 

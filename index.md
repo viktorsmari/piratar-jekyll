@@ -28,7 +28,7 @@ header:
 
 ### All pages
 {% for page in site.pages limit: 20 %}
-   <a href="{{ page.url }}">{{ page.title }}</a>
+   <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
 {% endfor %}
 
 
