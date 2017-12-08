@@ -9,9 +9,7 @@ header:
   image_description: 'Lysing myndar'
 ---
 
-#### (index.md)
-
-##### site.baseurl: {{ site.baseurl }}
+#### (index.md) | site.baseurl: {{ site.baseurl }}
 
 ### All posts
 
