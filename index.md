@@ -21,7 +21,7 @@ header:
   </div>
 {% endfor %}
 </ul>
-<button class="btn btn-purple">Allar fréttir</button>
+<a href="/frettir/" class="btn btn-purple">Allar fréttir</a>
 
 <hr />
 3 horiz. columns
