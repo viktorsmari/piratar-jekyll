@@ -5,7 +5,7 @@
 layout: splash
 header:
   image: /assets/images/karoline_fund_piratar_banner-wide.jpg
-  caption: 'Piratar framtidin okkar'
+  caption: 'Framtidin okkar'
   image_description: 'Lysing myndar'
 ---
 
@@ -17,6 +17,7 @@ header:
     <li>
          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
          <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+         <p>{{post.excerpt}}</p>
     </li>
   </div>
 {% endfor %}
