@@ -14,11 +14,12 @@ Cons:
 * We have to sign up for a Github account (free)
 
 
-### TODO:
-- [x] Webtree (Sitemap) directory
-- [x] Themes?
-- [x] Translations? Yes: https://www.sylvaindurand.org/making-jekyll-multilingual/
-- [ ] Permalink, remove the `_page` for pages.
+### Can we:
+- [x] Import the old site? Yes: http://import.jekyllrb.com/docs/wordpress/ (We should test this before going forward!)
+- [x] Use themes? Yes,currently using: https://github.com/mmistakes/minimal-mistakes
+- [x] Edit permalinks? Yes: https://jekyllrb.com/docs/permalinks/
+- [x] Use translations? Yes: https://www.sylvaindurand.org/making-jekyll-multilingual/
+- [x] Have a calendar? Yes
 
 
 ### Quick start for development
