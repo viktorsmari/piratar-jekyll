@@ -25,17 +25,17 @@ twitter_username: PiratePartyIS
 github_username:  piratar
 repository: "piratar/piratar-jekyll"
 
-twitter:
-  username: "PiratePartyIS"
-facebook:
-  username: "Piratar.Island"
-github:
-  username: "piratar"
-
-social:
-  links:
-    - "https://twitter.com/PiratePartyIS"
-    - "https://facebook.com/Piratar.Island"
+#twitter:
+#  username: "PiratePartyIS"
+#facebook:
+#  username: "Piratar.Island"
+#github:
+#  username: "piratar"
+#
+#social:
+#  links:
+#    - "https://twitter.com/PiratePartyIS"
+#    - "https://facebook.com/Piratar.Island"
 
 #og_image: /assets/images/logo.png
 # Build settings
