@@ -12,7 +12,7 @@ header:
 # Fréttir
 
 <ul class="">
-{% for post in site.frettir limit: 20 %}
+{% for post in site.frettir limit: 3 %}
   <div class="">
     <li>
          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -21,6 +21,7 @@ header:
   </div>
 {% endfor %}
 </ul>
+<button class="btn btn-purple">Allar fréttir</button>
 
 <hr />
 3 horiz. columns

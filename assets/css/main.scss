@@ -7,11 +7,6 @@
 // Custom Piratar.is changes are below this line:
 // START CUSTOM CHANGES
 
-// TODO:
-// purple rounded buttons
-// purple background with white text, white buttons
-
-
 $link-color: #381c58;
 //$masthead-link-color: red;
 $body-color: red;
@@ -24,6 +19,22 @@ $sans-serif-narrow  : "Montserrat", Arial, Tahoma, -apple-system, BlinkMacSystem
 
 $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
+
+
+// TODO:
+// purple rounded buttons
+// purple background with white text, white buttons
+
+.btn-purple{
+  background-color: #51297e;
+  color:white;
+  padding:14px !important;
+  border-radius: 2em !important;
+  font-family: $serif !important;
+}
+.btn-purple:hover{
+  background-color: #381c58;
+}
 
 
 // END CUSTOM CHANGES

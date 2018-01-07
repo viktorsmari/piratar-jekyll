@@ -43,13 +43,13 @@ While editing a page/post we recommend people copy/paste the content to a site l
 And copy the contents back when done. (Until Github supports this side by side workspace)
 
 
-### Organization of files
+### Organization of files, folder structure
 
 Folder | Usage
 ------ | ------
-**'_posts'** | Blog posts. Do we need it?
-**'_pages'** | All pages and the correct folder structure (the webtree) goes in the
-\_frettir/   | Fréttir (news)
+\_posts         | Blog posts. Do we need it?
+\_pages         | All pages and the correct folder structure (the webtree) goes in the
+\_frettir/      | Fréttir (news)
 \_data/navigation.yml | Top menu navigation
 /assets/images/ | Images
 
