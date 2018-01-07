@@ -1,0 +1,30 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Custom Piratar.is changes are below this line:
+// START CUSTOM CHANGES
+
+$link-color: red;
+//$masthead-link-color: red;
+$body-color: red;
+$background-color: rgb(252, 252, 252);
+$text-color: rgb(98, 98, 98);
+
+// Fonts
+
+
+$serif              : Montserrat, Arial, Tahoma, sans-serif;
+//$serif              : "PT Serif", Georgia, Times, serif;
+$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
+
+
+// END CUSTOM CHANGES
+// Custom changes must become before these imports!
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

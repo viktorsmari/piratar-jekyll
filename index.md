@@ -11,6 +11,45 @@ header:
 
 #### (index.md) | site.baseurl: {{ site.baseurl }}
 
+
+<hr />
+3 horiz. columns
+- Nýjast í kosningakerfi
+- Vidburdadagatal
+- Taktu þátt
+
+<hr />
+# Fréttir
+
+Allar frettir btn
+
+<hr />
+### Stefnumalin
+4 horiz. columns
+- Heilbrigðiskerfið
+- Húsnæðismál
+- Hækkum persónuafslátt
+- Tjáningarfrelsi
+
+<hr />
+## Frambjodendur
+
+<hr />
+3 horiz. columns
+- Grasrót Pírata
+- Stefnur
+- Styrktu Pírata
+
+<hr />
+#Píratar í fjölmiðlum
+
+<hr />
+# Samfélagsmiðlar
+
+Viljum vid ad forsidan hladi upp instagram og fb i hvert skipti?
+
+<hr />
+
 ### All posts
 
 <ul class="">
