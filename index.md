@@ -11,18 +11,18 @@ header:
 
 # Fréttir
 
-<ul class="">
-{% for post in site.frettir limit: 3 %}
-  <div class="">
-    <li>
-         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
-         <p>{{post.excerpt}}</p>
-    </li>
-  </div>
-{% endfor %}
-</ul>
-<a href="/frettir/" class="btn btn-purple">Allar fréttir</a>
+<figure class="third">
+  {% for post in site.frettir limit:3 %}
+    <a href="{{ post.url }}">
+      {% if post.header.teaser %}
+        <img src="{{post.header.teaser}}">
+      {% endif %}
+      {{post.title}}
+    </a>
+  {% endfor %}
+</figure>
+
+<a href="/frettir/" class="btn btn-purple" style="display:block; margin: auto; width:200px;">Allar fréttir</a>
 
 <hr />
 3 horiz. columns

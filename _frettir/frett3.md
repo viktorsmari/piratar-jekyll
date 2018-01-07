@@ -1,5 +1,7 @@
 ---
-title: Frett3
+title: Frett3 er blablab
+header:
+  image: /assets/images/karoline_fund_piratar_banner-wide.jpg
 ---
 
 
