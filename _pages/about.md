@@ -1,23 +1,15 @@
 ---
-title: About
+title: Um Pírata
 ---
 
 
-### about
+### Um Pírata
 
-Fikt
+Tortuga: Síðumúli 23 (gengið inn frá Selmúla) - 108 Reykjavík
 
-**Meira fikt**
+piratar@piratar.is - Sími: 546-2000
 
-*Prufa*
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Póstfang: Pósthólf 42, 121 Reykjavík
 
 
-[jekyll-organization]: https://github.com/jekyll
+
