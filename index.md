@@ -9,19 +9,24 @@ header:
   image_description: 'Lysing myndar'
 ---
 
-#### (index.md) | site.baseurl: {{ site.baseurl }}
+# Fréttir
 
+<ul class="">
+{% for post in site.frettir limit: 20 %}
+  <div class="">
+    <li>
+         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+  </div>
+{% endfor %}
+</ul>
 
 <hr />
 3 horiz. columns
 - Nýjast í kosningakerfi
 - Vidburdadagatal
 - Taktu þátt
-
-<hr />
-# Fréttir
-
-Allar frettir btn
 
 <hr />
 ### Stefnumalin

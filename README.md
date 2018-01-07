@@ -45,15 +45,13 @@ And copy the contents back when done. (Until Github supports this side by side w
 
 ### Organization of files
 
-* If you are a content creator, you need to learn the basics:
-
-* All blog posts or news should go into the **'_posts'** folder.
-
-* All pages and the correct folder structure (the webtree) goes in the **'_pages'** folder.
-
-* The top menu is defined in `_data/navigation.yml`
-
-* Images go in /assets/images/
+Folder | Usage
+------ | ------
+**'_posts'** | Blog posts. Do we need it?
+**'_pages'** | All pages and the correct folder structure (the webtree) goes in the
+\_frettir/   | Fréttir (news)
+\_data/navigation.yml | Top menu navigation
+/assets/images/ | Images
 
 
 ### Creating a new page/post
