@@ -1,11 +1,8 @@
 ---
 title: Stefna
-
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
 ---
 
+[comment]: <> (Table of contents test:)
 {% include toc %}
 
 

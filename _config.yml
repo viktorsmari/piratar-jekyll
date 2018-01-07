@@ -23,6 +23,7 @@ baseurl: "/piratar-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: piratar
 github_username:  piratar
+repository: "piratar/piratar-jekyll"
 
 # Build settings
 markdown: kramdown
@@ -40,7 +41,7 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
+      layout: "single"
 
 # Make all /_pages/ appear under the root /
 collections:
