@@ -13,11 +13,12 @@ header:
 
 <figure class="third">
   {% for post in site.frettir limit:3 %}
-    <a href="{{ post.url }}">
+    <a href="{{ post.url }}" style="text-decoration:none;">
       {% if post.header.teaser %}
         <img src="{{post.header.teaser}}">
       {% endif %}
       {{post.title}}
+      <span style="display:block; margin:0 0 20px; font-size:80%; color:grey;">{{ post.date | date:"%Y-%m-%d" }}</span>
     </a>
   {% endfor %}
 </figure>
