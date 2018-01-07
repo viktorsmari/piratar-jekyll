@@ -1,6 +1,13 @@
 ---
 title: Stefna
+
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
+
+{% include toc %}
+
 
 ## Beint lýðræði: Við viljum að þú ráðir
 

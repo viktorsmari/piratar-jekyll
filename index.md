@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: search
+layout: splash
 header:
   image: /assets/images/karoline_fund_piratar_banner-wide.jpg
   caption: 'Piratar framtidin okkar'
@@ -41,13 +41,15 @@ Allar frettir btn
 - Styrktu Pírata
 
 <hr />
-#Píratar í fjölmiðlum
+# Píratar í fjölmiðlum
 
 <hr />
 # Samfélagsmiðlar
 
 Viljum vid ad forsidan hladi upp instagram og fb i hvert skipti?
 
+<hr />
+<hr />
 <hr />
 
 ### All posts
