@@ -23,7 +23,7 @@ header:
   {% endfor %}
 </figure>
 
-<a href="/frettir/" class="btn btn-purple" style="display:block; margin: auto; width:200px;">Allar fréttir</a>
+<a href="/frettir/" class="btn btn-purple" style="display:block; margin: auto; width:200px; font-size:1em">Allar fréttir</a>
 
 <hr />
 3 horiz. columns
