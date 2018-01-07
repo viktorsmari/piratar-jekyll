@@ -61,9 +61,9 @@ collections:
   pages:
     output: true
     permalink: /:path
-#  frettir:
-#    output: true
-#    permalink: /:collection/:path/
+  frettir:
+    output: true
+    permalink: /:collection/:path/
 search: true
 #NOTE Can cause slowness, then revert to 'false'
 search_full_content: true
