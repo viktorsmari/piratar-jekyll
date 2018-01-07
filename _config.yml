@@ -54,7 +54,7 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "single"
+      layout: "piratar"
 
 # Make all /_pages/ appear under the root /
 collections:

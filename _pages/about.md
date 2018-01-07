@@ -2,7 +2,6 @@
 title: Um Pírata
 ---
 
-
 ### Um Pírata
 
 Tortuga: Síðumúli 23 (gengið inn frá Selmúla) - 108 Reykjavík
