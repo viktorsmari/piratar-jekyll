@@ -22,6 +22,11 @@ Cons:
 - [x] Have a calendar? Yes
 
 
+### Todo:
+Waiting for a fix for a bug which shows the authors info at the top.
+
+Line 42 in \_includes/seo.html has been disabled until then.
+
 ### Quick start for development
 1. Clone this repo
 
