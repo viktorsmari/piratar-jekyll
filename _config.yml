@@ -37,6 +37,8 @@ repository: "piratar/piratar-jekyll"
 #    - "https://twitter.com/PiratePartyIS"
 #    - "https://facebook.com/Piratar.Island"
 
+breadcrumbs: true
+
 #og_image: /assets/images/logo.png
 # Build settings
 markdown: kramdown
