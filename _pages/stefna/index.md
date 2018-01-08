@@ -5,6 +5,15 @@ title: Stefna
 [comment]: <> (Table of contents test:)
 {% include toc %}
 
+[Grunnstefnan](grunnstefna)
+
+[Framtíðarsýn](framtidarsyn-pirata)
+
+[Kosningaáherslur og framtíðarsýn Pírata](kosningar-aherslur-og-framtidarsyn-pirata)
+
+[Píratakóðinn](piratakodinn)
+
+[Stefnumál](stefnumal)
 
 ## Beint lýðræði: Við viljum að þú ráðir
 

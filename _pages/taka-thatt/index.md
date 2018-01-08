@@ -19,3 +19,6 @@ tags: []
 comments: []
 ---
 
+<li><a href="/taka-thatt/hvernig-tek-eg-thatt">Hvernig tek ég þátt?</a></li>
+<li><a href="/taka-thatt/piratafraedarinn">Píratafræðarinn</a></li>
+<li><a href="/taka-thatt/vidburdir">Næstu viðburðir</a></li>

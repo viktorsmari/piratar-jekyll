@@ -60,7 +60,7 @@ Viljum vid ad forsidan hladi upp instagram og fb i hvert skipti?
 <hr />
 <hr />
 
-### All posts
+### All posts (20)
 
 <ul class="">
 {% for post in site.posts limit: 20 %}
@@ -73,7 +73,7 @@ Viljum vid ad forsidan hladi upp instagram og fb i hvert skipti?
 {% endfor %}
 </ul>
 
-### All pages
+### All pages (20)
 {% for page in site.pages limit: 20 %}
    <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
 {% endfor %}
