@@ -28,7 +28,7 @@ comments: []
 <li>NorðVestur - Kjördæmissamráð</li>
 <li>Kosningastjórn: Erla Hlyns og Kristján Gunnars</li>
 </ul>
-<p><a href="https:localhost/adildarfelogin/kjordaemisrad/profkjor-pirata-2017/">Upplýsingar um prófkjör til Alþingis 2017</a></p>
+<p><a href="/adildarfelog/kjordaemisrad/profkjor-pirata-2017/">Upplýsingar um prófkjör til Alþingis 2017</a></p>
 <p>Netfang kjördæmissamráðs er <a href="mailto:Profkjor2017@piratar.is">Profkjor2017@piratar.is</a></p>
 <h3>Meðmælendalistar</h3>
 <p>Hér eru eyðublöð til að safna undirskritum fyrir meðmælendur fyrir komandi þingkosningar ásamt upplýsingum um hversu marga meðmælendur þurfi að hafa í hverju kjördæmi. Sjálfboðaliðar eru beðnir um að skila þeim í félagsheimili Pírata þegar þau fyllast af undirskriftum eða eigi síðar en <span style="text-decoration: underline;">10. október næstkomandi</span></p>

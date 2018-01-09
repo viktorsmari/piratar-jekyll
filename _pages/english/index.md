@@ -42,7 +42,7 @@ comments: []
 <h2 class="p1">Meetings for New Recruits</h2>
 <p class="p1">Introductory meetings are held first Monday of every month. These meetings provide an excellent opportunity to meet other Pirates and learn about the Pirate Party. If you look up "Píratar" in a search engine, you will find a long list of discussion groups, including the English speaking Pirate Party Iceland chat group. Most of the internet discussion groups are on Facebook.</p>
 <h2 class="p1">Local Pirate Chapters</h2>
-<p class="p1">There are regional Pirate groups all over Iceland. Go to <a href="http:localhost/adildarfelogin/landid/">this web page</a> to find a local Pirate party chapter near your municipality.</p>
+<p class="p1">There are regional Pirate groups all over Iceland. Go to <a href="/adildarfelog/landid/">this web page</a> to find a local Pirate party chapter near your municipality.</p>
 <h2 class="p1">International team</h2>
 <p>Out International team will gladly answer all your questions about the Pirate Party and how to meet Pirates in Iceland. Contact them via e-mail: <a href="mailto:international@piratar.is">international@piratar.is </a></p>
 <h2 class="p1">Contact Us</h2>

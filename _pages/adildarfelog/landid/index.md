@@ -28,4 +28,4 @@ Píratar á Norðausturlandi<br />
 Píratar á Austurlandi</p>
 <p>Einnig er starfandi aðildarfélagið Ungir Píratar.</p>
 <p><strong>Kjördæmisráð</strong> starfa samkvæmt lögum Pírata og sjá um að undirbúa kosningar og halda prófkjör fyrir komandi Alþingiskosningar haustið 2016.</p>
-<p><a href="http:localhost/adildarfelogin/kjordaemisrad/">Kjördæmisráð Pírata um land allt</a></p>
+<p><a href="/adildarfelog/kjordaemisrad/">Kjördæmisráð Pírata um land allt</a></p>

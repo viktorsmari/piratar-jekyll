@@ -29,23 +29,23 @@ comments: []
 <p class="p1">Þar eru flestir grasrótarfundir haldnir og allir velkomnir.  Einstaka sinnum eru fundir lokaðir og þess er þá getið sérstaklega í viðburðadagatalinu sem finna má hér á síðunni. Tortuga er aðgengilegt fyrir fólk sem notar hjólastól og mörgum fundum er streymt á <a href="https://www.youtube.com/user/PiratepartyIceland" target="_blank" rel="noopener">YouTube síðu Pírata</a> og á facebook. Eins og flest annað í grasrótarhreyfingunni Pírötum er vinna við streymi sjálfboðin.</p>
 <h3>Þingflokkurinn</h3>
 <ul>
-<li><a href="https:localhost/piratar-a-thingi/thingflokkur-pirata/">Um þingflokk Pírata</a></li>
-<li><a href="https:localhost/piratar-a-thingi/thingflokkur-pirata/ur-raedustol/">Úr ræðustól</a></li>
-<li><a href="https:localhost/piratar-a-thingi/fyrirspurnir-til-radherra/">Fyrirspurnir til ráðherra</a></li>
+<li><a href="/piratar-a-thingi/thingflokkur-pirata/">Um þingflokk Pírata</a></li>
+<li><a href="/piratar-a-thingi/thingflokkur-pirata/ur-raedustol/">Úr ræðustól</a></li>
+<li><a href="/piratar-a-thingi/fyrirspurnir-til-radherra/">Fyrirspurnir til ráðherra</a></li>
 </ul>
 <h3>Grasrót</h3>
 <ul>
-<li><a href="https:localhost/um-pirata/bokhald-og-rekstur/">Rekstur</a></li>
-<li><a href="https:localhost/taka-thatt/hvernig-tek-eg-thatt/">Taka þátt</a></li>
-<li><a href="https:localhost/taka-thatt/hvernig-tek-eg-thatt/malefnastarf/">Málefnastarf</a></li>
-<li><a href="https:localhost/taka-thatt/hvernig-tek-eg-thatt/onnur-felog/">Önnur félög</a></li>
+<li><a href="/um-pirata/bokhald-og-rekstur/">Rekstur</a></li>
+<li><a href="/taka-thatt/hvernig-tek-eg-thatt/">Taka þátt</a></li>
+<li><a href="/taka-thatt/hvernig-tek-eg-thatt/malefnastarf/">Málefnastarf</a></li>
+<li><a href="/taka-thatt/hvernig-tek-eg-thatt/onnur-felog/">Önnur félög</a></li>
 </ul>
 <h3>Lög og vinnureglur</h3>
 <ul>
-<li><a href="https:localhost/um-pirata/log-og-reglur/">Lög Pírata</a></li>
-<li><a href="https:localhost/um-pirata/log-og-reglur/vinnureglur-fulltrua-pirata-til-stjornarmyndunarvidraedna-2017/">Vinnureglur fulltrúa Pírata  til stjórnarmyndunarviðræðna 2017</a></li>
-<li><a href="https:localhost/adildarfelogin/kjordaemisrad/">Kjördæmisráð og kosningar</a></li>
-<li><a href="https:localhost/adildarfelogin/kjordaemisrad/profkjor-pirata-2017/">Vinnulag við prófkjör 2017</a></li>
+<li><a href="/um-pirata/log-og-reglur/">Lög Pírata</a></li>
+<li><a href="/um-pirata/log-og-reglur/vinnureglur-fulltrua-pirata-til-stjornarmyndunarvidraedna-2017/">Vinnureglur fulltrúa Pírata  til stjórnarmyndunarviðræðna 2017</a></li>
+<li><a href="/adildarfelog/kjordaemisrad/">Kjördæmisráð og kosningar</a></li>
+<li><a href="/adildarfelog/kjordaemisrad/profkjor-pirata-2017/">Vinnulag við prófkjör 2017</a></li>
 </ul>
 <h3>Heimilisfang</h3>
 <p>Píratar, Síðumúla 23 (gengið inn frá Selmúla), 108 Reykjavík<br />

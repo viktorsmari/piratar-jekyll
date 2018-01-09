@@ -23,27 +23,27 @@ comments: []
 <h2>Reykjavík norður og Reykjavík suður (RN og RS)</h2>
 <p>Prófkjöri Pírata í <strong>Reykjavík Suður</strong> og <strong>Reykjavík Norður</strong> er hafið. Hægt er að bjóða sig fram með því að skrá sig inn á <a href="http://x.piratar.is">x.piratar.is.</a></p>
 <ul>
-<li><a href="http:localhost/adildarfelogin/kjordaemisrad/reykjavik-nordur-og-reykjavik-sudur-2017/">Upplýsingar um framkvæmd prófkjörs í Reykjavík Norður og Reykjavík Suður</a></li>
+<li><a href="/adildarfelog/kjordaemisrad/reykjavik-nordur-og-reykjavik-sudur-2017/">Upplýsingar um framkvæmd prófkjörs í Reykjavík Norður og Reykjavík Suður</a></li>
 </ul>
 <h2>Suðvesturkjördæmi (SV)</h2>
 <p>Prófkjöri Pírata í <strong>Suðvesturkjördæmi</strong> (Kraganum) er hafið. Hægt er að bjóða sig fram með því að skrá sig inn á <a href="http://x.piratar.is">x.piratar.is</a></p>
 <ul>
-<li><a href="http:localhost/adildarfelogin/kjordaemisrad/sudvesturkjordaemi-2017/">Upplýsingar um framkvæmd prófkjörs í Suðvesturkjördæmi</a></li>
+<li><a href="/adildarfelog/kjordaemisrad/sudvesturkjordaemi-2017/">Upplýsingar um framkvæmd prófkjörs í Suðvesturkjördæmi</a></li>
 <li><a href="https:localhost/wp-content/uploads/2017/09/Vinnulag-kjördæmisráðs-Sv.pdf">Vinnulag kjördæmisráðs Suðvesturkjördæmis<br />
 </a></li>
 </ul>
 <h2>Norðvesturkjördæmi (NV)</h2>
 <p>Prófkjöri Pírata í <strong>Norðvesturkjördæmi</strong> er hafið. Hægt er að bjóða sig fram með því að skrá sig inn á <a href="http://x.piratar.is">x.piratar.is</a></p>
 <ul>
-<li><a href="http:localhost/adildarfelogin/kjordaemisrad/nordvesturkjordaemi-2017/">Upplýsingar um framkvæmd prófkjörs í norðvesturkjördæmi</a></li>
+<li><a href="/adildarfelog/kjordaemisrad/nordvesturkjordaemi-2017/">Upplýsingar um framkvæmd prófkjörs í norðvesturkjördæmi</a></li>
 </ul>
 <h2>Suðurkjördæmi (Suður)</h2>
 <p>Prófkjöri Pírata í <b>Suðurkjördæmi </b>er hafið. Hægt er að bjóða sig fram með því að skrá sig inn á <a href="http://x.piratar.is">x.piratar.is</a></p>
 <ul>
-<li><a href="http:localhost/adildarfelogin/kjordaemisrad/sudurkjordaemi-2017/">Upplýsingar um framkvæmd prófkjörs í suðurkjördæmi</a></li>
+<li><a href="/adildarfelog/kjordaemisrad/sudurkjordaemi-2017/">Upplýsingar um framkvæmd prófkjörs í suðurkjördæmi</a></li>
 </ul>
 <h2>Norðausturkjördæmi (NA)</h2>
 <p>Prófkjöri Pírata í <strong>Norðausturkjördæmi</strong> er hafið. Hægt er að bjóða sig fram með því að skrá sig inn á <a href="http://x.piratar.is">x.piratar.is</a></p>
 <ul>
-<li><a href="http:localhost/adildarfelogin/kjordaemisrad/nordausturkjordaemi-2017/">Upplýsingar um framkvæmd prófkjörs í Norðausturkjördæmi</a></li>
+<li><a href="/adildarfelog/kjordaemisrad/nordausturkjordaemi-2017/">Upplýsingar um framkvæmd prófkjörs í Norðausturkjördæmi</a></li>
 </ul>
