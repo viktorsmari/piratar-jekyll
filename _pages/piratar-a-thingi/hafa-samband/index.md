@@ -18,7 +18,7 @@ categories: []
 tags: []
 comments: []
 ---
-<p>[vc_row][vc_column width="1/2"][vc_column_text]Þingflokkur Pírata, Alþingishúsinu, 101 Reykjavík</p>
+<p>Þingflokkur Pírata, Alþingishúsinu, 101 Reykjavík</p>
 <p><a href="http://www.althingi.is/thingmenn/thingflokkar/piratar/">Upplýsingar um þingflokk Pírata á vef Alþingis</a></p>
 <p>Starfsmaður þingflokks er Eiríkur Rafn Rafnsson, netfang: eirikurrafn@althingi.is.</p>
 <p>Höfuðstöðvar Pírata</p>

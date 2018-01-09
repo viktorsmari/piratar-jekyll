@@ -19,22 +19,24 @@ categories: []
 tags: []
 comments: []
 ---
+
 <ul class="menu-fixed">
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-ny-stjornarskra/" data-href="#framtid-1">Ný stjórnarskrá</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-island-medal-thjoda/" data-href="#framtid-2">Ísland meðal þjóða</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-virkt-lydraedi/" data-href="#framtid-3">Virkt lýðræði</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-gagnsaei-og-upplysingafrelsi/" data-href="#framtid-4">Gagnsæi og upplýsingafrelsi</a></li>
-<li><a href="http:localhost/kosningar/framtidarsyn/#ma" data-href="#ma">Mannréttindi og jafnrétti</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-sjavarutvegsstefna/" data-href="#framtid-5">Sjávarútvegsmál</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-umhverfismal/" data-href="#framtid-6">Umhverfismál</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-efnahagsstefna/" data-href="#framtid-7">Efnahagsmál</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-heilbrigdisstefna/" data-href="#framtid-8">Endurreist heilbrigðiskerfi</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-menntastefna/" data-href="#framtid-9">Styrkjum menntun sem grunnstoð</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-velferdarstefna/" data-href="#framtid-10">Velferðarmál</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-landbunadarstefna/" data-href="#framtid-11">Landbúnaður</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-island-sem-afangastadur/" data-href="#framtid-12">Ísland sem áfangastaður</a></li>
-<li><a href="http:localhost/kosningar/kosningarforsida/frambod-2016/framtidarsyn-pirata/markmid-pirata-eflum-byggdir/" data-href="#framtid-13">Eflum byggðir</a></li>
+<li><a href="#framtid-1" data-href="#framtid-1">Ný stjórnarskrá</a></li>
+<li><a href="#framtid-2" data-href="#framtid-2">Ísland meðal þjóða</a></li>
+<li><a href="#framtid-3" data-href="#framtid-3">Virkt lýðræði</a></li>
+<li><a href="#framtid-4" data-href="#framtid-4">Gagnsæi og upplýsingafrelsi</a></li>
+<li><a href="#ma" data-href="#ma">Mannréttindi og jafnrétti</a></li>
+<li><a href="#framtid-5" data-href="#framtid-5">Sjávarútvegsmál</a></li>
+<li><a href="#framtid-6" data-href="#framtid-6">Umhverfismál</a></li>
+<li><a href="#framtid-7" data-href="#framtid-7">Efnahagsmál</a></li>
+<li><a href="#framtid-8" data-href="#framtid-8">Endurreist heilbrigðiskerfi</a></li>
+<li><a href="#framtid-9" data-href="#framtid-9">Styrkjum menntun sem grunnstoð</a></li>
+<li><a href="#framtid-10" data-href="#framtid-10">Velferðarmál</a></li>
+<li><a href="#framtid-11" data-href="#framtid-11">Landbúnaður</a></li>
+<li><a href="#framtid-12" data-href="#framtid-12">Ísland sem áfangastaður</a></li>
+<li><a href="#framtid-13" data-href="#framtid-13">Eflum byggðir</a></li>
 </ul>
+
 <h2 id="framtid-1">Ný stjórnarskrá</h2>
 <p><strong>Virðum vilja þjóðarinnar - klárum málið!</strong></p>
 <h3>21. aldar stjórnarskrá</h3>
@@ -83,7 +85,7 @@ comments: []
 <h3>Eflum vitund um lýðræði og þjóðfélagsmál með þjálfun í gagnrýnni hugsun</h3>
 <p>Lýðræði gerist ekki sjálfkrafa. Samfélagssáttmálinn byggist á samtali, samþykki og samvinnu. Eflum kennslu um lýðræði, heimspeki og samfélagsmál og þjálfun í gagnrýnni hugsun og lýðræðislegum vinnubrögðum á öllum skólastigum.<a name="3-6"></a></p>
 <ul>
-<li><a href="http:localhost/stefna/grunnstefna/">Grunnstefna Pírata</a></li>
+<li><a href="/stefna/grunnstefna/">Grunnstefna Pírata</a></li>
 </ul>
 <h3>Veitum stjórnvöldum meira aðhald</h3>
 <p>Valdi fylgir ábyrgð. Grunnurinn að góðu samfélagi er skiljanleg stjórnarskrá þar sem allir geta skilið rétt sinn og ábyrgð valdhafa. Óháðir fjölmiðlar eru nauðsynlegur hluti þess að fylgjast með valdinu. Gagnsæ stjórnsýsla er nauðsynleg til þess að fjölmiðlar og almenningur geti sinnt lýðræðislegu hlutverki sínu.</p>

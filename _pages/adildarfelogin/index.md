@@ -19,11 +19,11 @@ tags: []
 comments: []
 ---
 
-[Kjordaemisrad](kjordaemisrad)
+[Kjördaemisráð](kjordaemisrad)
 
-[Landid](landid)
+[Landið](landid)
 
 [Rekstur](rekstur)
 
-[Ymis felog](ymis-felog)
+[Ýmis félög](ymis-felog)
 

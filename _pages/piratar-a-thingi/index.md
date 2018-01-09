@@ -19,3 +19,10 @@ tags: []
 comments: []
 ---
 
+- [ Fréttir ]( /frettir )
+- [ Fyrirspurnir til ráðherra]( fyrirspurnir-til-radherra)
+- [ Hafa samband]( hafa-samband)
+- [ Þingflokkur Pírata]( thingflokkur-pirata)
+- [ Þingfólk ]( thingfolk )
+- [ Þingmál ]( thingmal )
+

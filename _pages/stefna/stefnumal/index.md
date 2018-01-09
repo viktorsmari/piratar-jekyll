@@ -21,8 +21,8 @@ comments: []
 <p><!-- STEFNUMÁL --></p>
 <p>Félagsmenn móta stefnur Pírata.</p>
 <ul>
-<li><a href="http:localhost/kosningar/">Áherslumál Pírata fyrir Alþingiskosningar 2016</a></li>
-<li><a href="http:localhost/kosningar/framtidarsyn/">Framtíðarsýn Pírata</a></li>
+<li><a href="/kosningar/">Áherslumál Pírata fyrir Alþingiskosningar 2016</a></li>
+<li><a href="/kosningar/framtidarsyn/">Framtíðarsýn Pírata</a></li>
 </ul>
 <p>Stefnumótunarferli Pírata fer fram á þann hátt að fyrst er stefna rædd og unnin á málefnafundum í málefnahópi, svo er hún kynnt á félagsfundi og þar er kosið um hvort hún skuli fara inn í kosningakerfi Pírata á vefnum. Ef hún kemst þar inn þá er hún til umræðu þar í nokkra daga. Að því loknu stendur rafræn kosning yfir í nokkra daga.</p>
 <h3>Yfirlit yfir samþykktir í kosningakerfi Pírata</h3>

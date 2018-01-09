@@ -13,13 +13,14 @@ categories: []
 tags: []
 comments: []
 ---
+
 <p>Samkvæmt 10. kafla laga Pírata er heimilt að stofna aðildarfélög Pírata að uppfylltum ákveðnum skilyrðum.</p>
 <p><strong>Aðildarfélögin</strong> eru annað hvort sérhæfð undirfélög Pírata eða svæðisbundin félög. Svæðisbundin félög sjá um málefni og framboð hvert á sínu starfssvæði.</p>
 <p>Starfandi svæðisbundin aðildarfélög eru:</p>
 <p>Píratar í Reykjavík<br />
 Píratar í Hafnarfirði<br />
 Píratar í Kópavogi<br />
-Píratar á Seltjarnarnesi<br />
+<a href="piratar-a-seltjarnarnesi">Píratar á Seltjarnarnesi</a><br />
 Píratar á Suðurnesjum<br />
 Píratar á Vesturlandi<br />
 Píratar á Vestfjörðum<br />
