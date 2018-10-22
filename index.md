@@ -13,7 +13,7 @@ header:
 
 <figure class="third">
   {% for post in site.frettir limit:3 %}
-    <a href="{{ post.url }}" style="text-decoration:none;">
+    <a href="{{ post.url |relative_url }}" style="text-decoration:none;">
       {% if post.header.teaser %}
         <img src="{{ site.baseurl  }}{{post.header.teaser}}">
       {% endif %}
