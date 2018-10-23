@@ -3,10 +3,6 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
-header:
-  image: /assets/images/karoline_fund_piratar_banner-wide.jpg
-  caption: 'Framtidin okkar'
-  image_description: 'Lysing myndar'
 ---
 
 # Fréttir

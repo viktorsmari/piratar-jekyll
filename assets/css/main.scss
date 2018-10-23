@@ -7,11 +7,13 @@
 // Custom Piratar.is changes are below this line:
 // START CUSTOM CHANGES
 
+//colors
 $link-color: #381c58;
 //$masthead-link-color: red;
 $body-color: red;
 $background-color: rgb(252, 252, 252);
 $text-color: rgb(98, 98, 98);
+$purple: #51297e;
 
 // Fonts
 $serif              : Montserrat, Arial, Tahoma, sans-serif;
@@ -34,6 +36,11 @@ $header-font-family : $sans-serif-narrow;
 }
 .btn-purple:hover{
   background-color: #381c58;
+}
+
+.masthead{
+  border-bottom: 4px solid $purple !important;
+  margin-bottom: 10px;
 }
 
 
