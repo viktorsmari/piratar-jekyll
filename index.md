@@ -1,48 +1,124 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: splash
+layout: page
+title: Forsíða
 ---
 
 # Fréttir
 
-<figure class="third">
+<div class="row">
   {% for post in site.frettir limit:3 %}
+  <div class="col-md-4">
     <a href="{{ post.url |relative_url }}" style="text-decoration:none;">
       {% if post.header.teaser %}
-        <img src="{{ site.baseurl  }}{{post.header.teaser}}">
+      <img class="img-fluid" src="{{ site.baseurl  }}{{post.header.teaser}}">
       {% endif %}
       {{post.title}}
       <span style="display:block; margin:0 0 20px; font-size:80%; color:grey;">{{ post.date | date:"%Y-%m-%d" }}</span>
     </a>
+  </div>
   {% endfor %}
-</figure>
+</div>
 
 <a href="/frettir/" class="btn btn-purple" style="display:block; margin: auto; width:200px; font-size:1em">Allar fréttir</a>
 
 <hr />
-3 horiz. columns
-- Nýjast í kosningakerfi
-- Vidburdadagatal
-- Taktu þátt
+
+<div class="row">
+  <div class="col-md-4">
+    - Nýjast í kosningakerfi
+  </div>
+  <div class="col-md-4">
+    - Vidburdadagatal
+  </div>
+  <div class="col-md-4">
+    - Taktu þátt
+  </div>
+</div>
 
 <hr />
-### Stefnumalin
-4 horiz. columns
-- Heilbrigðiskerfið
-- Húsnæðismál
-- Hækkum persónuafslátt
-- Tjáningarfrelsi
+<h2 class="text-center">Stefnumalin</h2>
+<div class="row text-center my-4">
+  <div class="col-md-3">
+    <a href="/stefna/stefnumal/" >
+      <img class="img-fluid my-3" src="https://piratar.is/wp-content/uploads/2016/07/heilbrigdismal-160x160.png" alt=""/>
+    </a>
+      <h3> Heilbrigðiskerfið </h3>
+      <p>Framsýn stjórnvöld tryggja a allir fái bestu mögulegu heilbrigisþjónustu þegar þörf krefur, óhá efnahag og óhá búsetu.</p>
+    <a href="/stefna/stefnumal" >
+      <div class="btn btn-purple">Lesa meira</div>
+    </a>
+  </div>
+  <div class="col-md-3">
+      <img class="img-fluid my-3" src="https://piratar.is/wp-content/uploads/2016/07/husnaedismal-160x160.png" alt=""/>
+      <h3> Húsnæðismál </h3>
+  </div>
+  <div class="col-md-3">
+      <img class="img-fluid my-3" src="https://piratar.is/wp-content/uploads/2016/07/borgaralaun-160x160.png" alt=""/>
+      <h3> Hækkum persónuafslátt </h3>
+  </div>
+  <div class="col-md-3">
+      <img class="img-fluid my-3" src="https://piratar.is/wp-content/uploads/2016/07/stjornarskra-160x160.png" alt=""/>
+      <h3> Tjáningarfrelsi </h3>
+  </div>
+</div>
 
-<hr />
-## Frambjodendur
+<div class="row bg-grey text-center py-5">
+  <div class="col-md-7 mx-auto">
+    <h4>Allar stefnur Pírata byggja á grunnstefnu Pírata þar sem gagnrýnin hugsun og vel upplýstar ákvaranir eru í fyrirrúmi.  </h4>
+  </div>
+</div>
 
-<hr />
-3 horiz. columns
-- Grasrót Pírata
-- Stefnur
-- Styrktu Pírata
+<div class="row py-5 text-center">
+  <div class="col-md-6 bg-purple-light p-5">
+    <h2>Þingflokkur Pírata </h2>
+    <p>Þingflokkur Pírata samanstendur af 6 þingmönnum eftir Alþingiskosningarnar 2017 þar sem Píratar fengu 9,2% kjörinna atkvæa.  </p>
+    <a class="btn btn-white" href="#" target="_blank">Anchor Text</a>
+  </div>
+  <div class="col-md-6 bg-purple p-5">
+    <h2>Skuggafjárlög, tillaga 2017 </h2>
+    <p>Skuggafjárlög Pírata eru unnin út frá áherslum hreyfingarinnar og út frá könnunum sem þingflokkur Pírata lét vinna í adraganda kosninga um hvernig landsmenn vilja forgangsraa ríkisfjármunum.  </p>
+    <a class="btn btn-white" href="#" target="_blank">Anchor Text</a>
+  </div>
+</div>
+
+
+<h2 class="text-center"> Frambjóendur Pírata fyrir þingkosningar 2017 </h2>
+<div class="row text-center justify-content-center">
+  <div class="col-md-2">
+    <h3>SV</h3>
+    <img class="img-fluid rounded-circle" src="https://piratar.is/wp-content/uploads/2016/07/XP2017_JonThor_806A9390-300x300.jpg">
+    <p>Jón Þór </p>
+  </div>
+  <div class="col-md-2">
+    <h3>SV</h3>
+    <img class="img-fluid rounded-circle" src="https://piratar.is/wp-content/uploads/2016/07/XP2017_JonThor_806A9390-300x300.jpg">
+    <p>Jón Þór </p>
+  </div>
+
+  <div class="col-md-2">
+    <h3>SV</h3>
+    <img class="img-fluid rounded-circle" src="https://piratar.is/wp-content/uploads/2016/07/XP2017_JonThor_806A9390-300x300.jpg">
+    <p>Jón Þór </p>
+  </div>
+
+  <div class="col-12 my-5">
+    <a class="btn btn-purple" href="#" target="_blank">Sjá alla frambjóendur</a>
+  </div>
+</div>
+
+<div class="row py-5" style="background:#e9e8e9">
+  <div class="col-md-4">
+    <h3> Grasrót Pírata </h3>
+  </div>
+  <div class="col-md-4">
+    <h3> Stefnur </h3>
+  </div>
+  <div class="col-md-4">
+    <h3> Styrktu Pírata </h3>
+  </div>
+</div>
+
+
 
 <hr />
 # Píratar í fjölmiðlum
@@ -53,25 +129,23 @@ layout: splash
 Viljum vid ad forsidan hladi upp instagram og fb i hvert skipti?
 
 <hr />
-<hr />
-<hr />
 
 ### All posts (20)
 
 <ul class="">
-{% for post in site.posts limit: 20 %}
+  {% for post in site.posts limit: 20 %}
   <div class="">
     <li>
-         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <span>({{ post.date | date:"%Y-%m-%d" }})</span>
     </li>
   </div>
-{% endfor %}
+  {% endfor %}
 </ul>
 
 ### All pages (20)
 {% for page in site.pages limit: 20 %}
-   <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
 {% endfor %}
 
 

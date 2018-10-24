@@ -1,17 +1,29 @@
 main:
   - title: "Stefna"
     url: /stefna
-  - title: "Píratar á þingi"
-    url: /piratar-a-thingi/
-  - title: "Aðildarfélög"
-    url: /adildarfelog/
-  - title: "Taka þátt"
-    url: /taka-thatt/
+
+umpirata:
   - title: "Um Pírata"
     url: /um-pirata/
-  - title: "Hafa samband"
-    url: /contact
-  - title: "Language"
-    url: /en/
+  - title: "Píratar á þingi"
+    url: /piratar-a-thingi/
   - title: "Kosningakerfi"
     url: https://x.piratar.is
+  - title: "Taka þátt"
+    url: /taka-thatt
+  - title: "Hafa samband"
+    url: /contact
+
+adildarfelog:
+  - title: "Reykjavík"
+    url: /reykjavik
+  - title: "Hafnarfjörður"
+    url: /hafnarfjordur
+  - title: "Kópavogur"
+    url: /kopavogur
+
+languages:
+  - title: "English"
+    url: /en/
+  - title: "Polski"
+    url: /po/

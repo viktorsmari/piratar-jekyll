@@ -2,35 +2,33 @@
 
 This is a proof of concept to see if we can use a static page instead of the Wordpress page at piratar.is
 
-Pros:
+### Pros:
 * No need to update Wordpress, plugins, server etc
-* It can be hosted for free on Github. (Serverless)
+* It can be hosted for free on Github. (We don't need to maintain a server)
 * User authentication: 
   * No need to create a new user or manage permissions for people needing to edit.
 * We can accept changes from *anyone* through pull requests.
 
-Cons:
+### Cons:
 * We need to learn something new
 * We have to sign up for a Github account (free)
 
 
 ### Can we:
 - [x] Import the old site? Yes: http://import.jekyllrb.com/docs/wordpress/ (We should test this before going forward!)
-- [x] Use themes? Yes,currently using: https://github.com/mmistakes/minimal-mistakes
+- [x] Use themes? Yes, but now we simply use Bootstrap 4, so more people can easily collaborate. Themes can get complex
 - [x] Edit permalinks? Yes: https://jekyllrb.com/docs/permalinks/
 - [x] Use translations? Yes: https://www.sylvaindurand.org/making-jekyll-multilingual/
 - [x] Have a calendar? Yes
 
 
-### Todo:
-Waiting for a fix for a bug which shows the authors info at the top.
+We can do a lot of things, and the best way might be to use an external service and iframe their content into ours.
 
-Line 42 in \_includes/seo.html has been disabled until then.
 
 ### Quick start for development
 1. Clone this repo
 
-1. Install jekyll and the theme  
+1. Install jekyll and the gems  
 `bundle`
 
 1. Start the dev server. (If the main domain uses a subpath on Github, add `--baseurl ''`)  
@@ -70,13 +68,6 @@ title: Blogging Like a Hacker
 ```
 
 This section is called [Front Matter](https://jekyllrb.com/docs/frontmatter/)
-
-
-### Themes
-
-Swithcing themes is easy and can be done in the `_config.yml` (or project settings on Github)
-
-We are currently using this theme for testing: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 
 ## Useful links

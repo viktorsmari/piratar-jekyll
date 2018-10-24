@@ -8,43 +8,51 @@
 // START CUSTOM CHANGES
 
 //colors
-$link-color: #381c58;
-//$masthead-link-color: red;
-$body-color: red;
-$background-color: rgb(252, 252, 252);
-$text-color: rgb(98, 98, 98);
 $purple: #51297e;
+$purple-light: #763cb8;
 
-// Fonts
-$serif              : Montserrat, Arial, Tahoma, sans-serif;
-$sans-serif-narrow  : "Montserrat", Arial, Tahoma, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+a{
+ color:381c58;
+}
 
-$global-font-family : $serif;
-$header-font-family : $sans-serif-narrow;
+body{
+  background-color: rgb(252, 252, 252);
+  font-family : "Montserrat", Arial, Tahoma, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+}
 
-
-// TODO:
-// purple rounded buttons
-// purple background with white text, white buttons
-
+.bg-grey{
+  background-color: #EEEEEE;
+}
+.bg-purple{
+  color:white;
+  background-color: $purple;
+}
+.bg-purple-light{
+  color:white;
+  background-color: $purple-light;
+}
 .btn-purple{
   background-color: #51297e;
   color:white !important;
   padding:14px !important;
   border-radius: 2em !important;
-  font-family: $serif !important;
 }
 .btn-purple:hover{
   background-color: #381c58;
 }
 
-.masthead{
-  border-bottom: 4px solid $purple !important;
-  margin-bottom: 10px;
+.btn-white{
+  background-color: white;
+  color:$purple;
+  padding:14px !important;
+  border-radius: 2em !important;
+}
+.btn-white:hover{
+  color:white;
+  background-color: #381c58;
 }
 
+.navbar{
+  border-bottom: 2px solid $purple !important;
+}
 
-// END CUSTOM CHANGES
-// Custom changes must become before these imports!
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
