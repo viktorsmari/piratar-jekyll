@@ -52,12 +52,15 @@ include: ["_pages"]
 
 # All pages get the 'default' layout if nothing else is defined in their Front Matter
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "piratar"
-
+  - scope: # Make all /frettir have the 'frett' layout:
+      path: ""
+      type: "frettir"
+    values:
+      layout: "frett"
 # Make all /_pages/ appear under the root /
 collections:
   pages:

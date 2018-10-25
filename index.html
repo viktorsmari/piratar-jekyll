@@ -7,8 +7,8 @@ title: Forsíða
   {% for post in site.frettir limit:3 %}
   <div class="col-md-4">
     <a href="{{ post.url |relative_url }}" style="text-decoration:none;">
-      {% if post.header.teaser %}
-      <img class="img-fluid" src="{{ site.baseurl  }}{{post.header.teaser}}">
+      {% if post.image %}
+      <img class="img-fluid" src="{{ site.baseurl }}{{post.image}}">
       {% endif %}
       {{post.title}}
       <span style="display:block; margin:0 0 20px; font-size:80%; color:grey;">{{ post.date | date:"%Y-%m-%d" }}</span>
