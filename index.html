@@ -3,8 +3,6 @@ layout: page
 title: Forsíða
 ---
 
-# Fréttir
-
 <div class="row">
   {% for post in site.frettir limit:3 %}
   <div class="col-md-4">
@@ -106,7 +104,7 @@ title: Forsíða
   </div>
 </div>
 
-<div class="row py-5" style="background:#e9e8e9">
+<div class="row py-5 text-center" style="background:#e9e8e9">
   <div class="col-md-4">
     <h3> Grasrót Pírata </h3>
   </div>
@@ -121,16 +119,20 @@ title: Forsíða
 
 
 <hr />
-# Píratar í fjölmiðlum
+<h2>
+ Píratar í fjölmiðlum
+</h2>
 
 <hr />
-# Samfélagsmiðlar
+<h2>
+ Samfélagsmiðlar
+</h2>
 
 Viljum vid ad forsidan hladi upp instagram og fb i hvert skipti?
 
 <hr />
 
-### All posts (20)
+All posts (20)
 
 <ul class="">
   {% for post in site.posts limit: 20 %}
@@ -143,7 +145,7 @@ Viljum vid ad forsidan hladi upp instagram og fb i hvert skipti?
   {% endfor %}
 </ul>
 
-### All pages (20)
+All pages (20)
 {% for page in site.pages limit: 20 %}
 <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
 {% endfor %}
