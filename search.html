@@ -2,36 +2,17 @@
 layout: default
 ---
 
+<div class="row">
 
-<ul id="search-results">
-  <li>Leitin er hæg núna. Hægt er að skipta um vél, eða einfaldlega nota Google leitarvélina?</li>
-  <li style="margin-top:100px">Er að leita ...</li>
-</ul>
+  <div class="col-md-8 mx-auto">
+    <form class="form-inline my-3 pb-4 " action="get" id="site_search">
+      <input autofocus="autofocus" class="form-control mr-sm-2" placeholder="Search"  type="text" id="search_box" name="get">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Leita</button>
+    </form>
+    <ul id="search_results"> </ul>
+  </div>
+</div>
 
-<script>
-  window.store = {
-    {% for post in site.posts %}
-    "{{ post.url | slugify }}": {
-      "title": "{{ post.title | xml_escape }}",
-      "author": "{{ post.author | xml_escape }}",
-      "category": "{{ post.category | xml_escape }}",
-      "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-      "url": "{{ post.url | xml_escape }}"
-    },
-    {% unless forloop.last %},{% endunless %}
-    {% endfor %}
-
-    {% for post in site.pages %}
-    "{{ post.url | slugify }}": {
-      "title": "{{ post.title | xml_escape }}",
-      "author": "{{ post.author | xml_escape }}",
-      "category": "{{ post.category | xml_escape }}",
-      "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-      "url": "{{ post.url | xml_escape }}"
-    }
-    {% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  };
-</script>
 <script src="{{ "/assets/js/lunr.min.js" | relative_url }}"></script>
 <script src="{{ "/assets/js/search.js" | relative_url }}"></script>
+
